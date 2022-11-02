@@ -5,6 +5,11 @@
 Para realizar un **diagrama** emplearemos * *mermaid* *.
 La documentación de mermaid se encuentra en el siguiente [enlace](https://mermaid-js.github.io/mermaid/#/).
 
+#####Requisitos#####
+
+- [ ] Tener una cuenta de GitHub
+- [ ] Emplear un editor de textos
+
 ```mermaid
 graph TD;
     A-->B;
@@ -29,4 +34,10 @@ sequenceDiagram
     Pepe->>Pacheco: Y tu que tal?
     Pacheco-->>Pepe: Mejor ni hablemos!
 ```
-[Contribution guidelines for this project](docs/README.md)
+@damiancastelao :+1: Que te parece? :shipit:
+
+Aquí tienes una bonita imagen[^1].
+
+![Esto es una imagen](https://images.vexels.com/media/users/3/204679/isolated/lists/abc9403594fe735e6139fe3f131b0f05-gato-mirando-hacia-arriba-silueta-gato.png)
+
+[^1] Extraída de la red.
