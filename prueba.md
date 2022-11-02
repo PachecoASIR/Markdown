@@ -38,6 +38,6 @@ sequenceDiagram
 
 Aquí tienes una bonita imagen[^1].
 
-![Esto es una imagen](https://png.pngtree.com/element_our/png/20181009/thai-cat-cream-tabby-sitting-png_131622.jpg)
+![Esto es una imagen](https://w7.pngwing.com/pngs/88/647/png-transparent-pet-cat-animal-kitty-biological.png)
 
 [^1]: Extraída de la red.
