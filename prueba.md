@@ -4,7 +4,6 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
-```
 
 sequenceDiagram
     participant Pacheco
@@ -17,3 +16,4 @@ sequenceDiagram
     Pepe-->>Pacheco: Bien!
     Pepe->>Pacheco: Y tu que tal?
     Pacheco-->>Pepe: Mejor ni hablemos!
+```
