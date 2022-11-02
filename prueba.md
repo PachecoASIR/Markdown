@@ -4,7 +4,9 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
+```
 
+```mermaid
 sequenceDiagram
     participant Pacheco
     participant Pepe
