@@ -38,6 +38,6 @@ sequenceDiagram
 
 Aquí tienes una bonita imagen[^1].
 
-![Esto es una imagen](https://w7.pngwing.com/pngs/88/647/png-transparent-pet-cat-animal-kitty-biological.png)
+![Esto es una imagen](https://w7.pngwing.com/pngs/463/199/png-transparent-cat-kitty-creative-cat-cat.png)
 
 [^1]: Extraída de la red.
