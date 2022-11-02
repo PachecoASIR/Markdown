@@ -38,6 +38,6 @@ sequenceDiagram
 
 Aquí tienes una bonita imagen[^1].
 
-![Esto es una imagen](https://images.vexels.com/media/users/3/204679/isolated/lists/abc9403594fe735e6139fe3f131b0f05-gato-mirando-hacia-arriba-silueta-gato.png)
+![Esto es una imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pngtree.com%2Ffree-animals-png%2Fcat&psig=AOvVaw2nFq10FFw14J6QiCZo0F_2&ust=1667496830663000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDR-fODkPsCFQAAAAAdAAAAABAE)
 
 [^1]: Extraída de la red.
