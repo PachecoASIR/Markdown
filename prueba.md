@@ -1,6 +1,6 @@
-#EJERCICIO DE README CON MARKDOWN
+#EJERCICIO DE README CON MARKDOWN#
 
-###EJEMPLO DE DIAGRAMAS
+###EJEMPLO DE DIAGRAMAS###
 
 Para realizar un **diagrama** emplearemos * *mermaid* *.
 La documentación de mermaid se encuentra en el siguiente [enlace](https://mermaid-js.github.io/mermaid/#/).
@@ -29,3 +29,4 @@ sequenceDiagram
     Pepe->>Pacheco: Y tu que tal?
     Pacheco-->>Pepe: Mejor ni hablemos!
 ```
+[Contribution guidelines for this project](docs/README.md)
